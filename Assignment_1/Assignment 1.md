@@ -7,7 +7,10 @@
  python template/RunMe.py --dataset-folder datasets/CIFAR10/ --ignoregit --no-cuda --seed 42 --optimizer-name Adam
 ````
 
+![](adam_scalars.PNG)
 
 ```shell
  python template/RunMe.py --dataset-folder datasets/CIFAR10/ --ignoregit --no-cuda --seed 42 --optimizer-name Adam --model-name CNN_tanhH
 ````
+
+![](tanh_scalars.PNG)
