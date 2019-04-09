@@ -19,6 +19,7 @@ Change the optimizer to Adam by command line option - otherwise run as above (1)
     --ignoregit --no-cuda --seed 42 --optimizer-name Adam
 ````
 The accuracy was 60.000%
+
 ![](adam_scalars.PNG)
 
 Run 3:
@@ -30,6 +31,7 @@ Clone model CNN_basic.py and exchange LeakyReLu nonlinearity for tanh
     --model-name CNN_tanhH
 ````
 The accuracy was 52.940%
+
 ![](tanh_scalars.PNG)
 
 Authors: Johan Öhman, György Kovács and Rickard Brännvall
