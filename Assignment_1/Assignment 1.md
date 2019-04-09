@@ -1,3 +1,5 @@
+https://github.com/hyllevask/D7018E/blob/master/Assignment_1/Assignment%201.md
+
 Run 1: 
 Run CIFAR-10 out of the box with default parameters and seed 42
 
