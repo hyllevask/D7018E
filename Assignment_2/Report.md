@@ -1,5 +1,5 @@
 # TODO
- Write out the accuracies
+ Write out the accuracies  
  Write some small comments and answers to questions in the task.
 
 # Train Alexnet from scratch on the CIFAR10 dataset
