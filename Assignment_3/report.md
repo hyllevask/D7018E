@@ -10,7 +10,10 @@
 
 ## Train simple CNN for 10 epochs
 ### PCA
-![](output1_pca.png)
+![](output2_pca.png)
 
 ### tSNE
 ![](output2_tsne.png)
+
+
+## Comparisons
